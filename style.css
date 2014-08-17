@@ -1,0 +1,116 @@
+body {
+
+}
+
+#header {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+
+#menu{
+    width: 80%;
+    text-align: center;
+    float: right;
+    margin-bottom: 20px;
+    
+}
+
+#menu ul{
+    margin-top: 35px;
+    margin-left: 128px;
+    list-style: none;
+    padding:0;
+    float: left;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: #00248F;
+    text-align: center;
+}
+
+#menu ul li{
+    float: left;
+    margin: 0 10px 0 10px;
+}
+
+#menu ul li a{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;   
+}
+
+#content{
+    position: relative;
+    width: 75%;
+    margin: 0 auto;  
+    clear:both;
+}
+
+#blog{
+    position: relative;
+    float: left;
+    width: 70%;
+    clear: left;
+    margin-bottom: 30px;
+}
+
+#post{
+    width: 100%;
+}
+
+#title{
+    font-size: 250%;
+    margin-bottom: 5px; 
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif; 
+}
+
+#author{
+    font-weight: bold;
+    width: 50%;
+    float: left;
+    margin-bottom: 10px;
+    color: #00248F;
+    font-family: 'Josefin', sans-serif;
+    
+}
+
+#date{
+    width: 35%;
+    float: right;
+    text-align: right;
+    margin-bottom: 10px;
+    color: #00248F;
+    font-family: 'Josefin', sans-serif;
+}
+
+#text{
+    margin-top: 20px;
+    clear: both;
+    font-family: 'Josefin', sans-serif;
+}
+
+#twitup{
+    position: relative;
+    float:right;
+    width: 27%;
+    display: inline;    
+}
+
+#twitter{
+    margin-top: -15px;
+}
+
+#updates{
+}
+
+
+
+
+#footer {
+    clear: both;
+    position: relative;
+    text-align: center;
+    border-top-style: solid;
+    border-top-color: #00248F;
+    font-family: 'Josefin', sans-serif;
+}
