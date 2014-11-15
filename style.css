@@ -101,6 +101,10 @@ body {
 }
 
 #updates{
+    margin-top: 20px;
+    border-top: solid;
+    padding-top: 15px;
+    font-family: 'Josefin', sans-serif;
 }
 
 
